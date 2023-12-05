@@ -1,4 +1,3 @@
-
 # Group 2 MIST 4610 Project 2
 
 
@@ -71,3 +70,7 @@ Average Unsubsidized Loan (per recipient)
 [FFEL Unsubsidized $ of Disbursements]/[FFEL Unsubsidized Recipients]
 
 ## Analysis and Results
+
+![Screenshot (136)](https://github.com/parkerkane5/Group-2-MIST-4610-Project-2/assets/148779254/71e03ba0-d3e7-4a5a-9ee1-b1686580be55)
+
+![Screenshot (139)](https://github.com/parkerkane5/Group-2-MIST-4610-Project-2/assets/148779254/41a7af75-1fbe-4586-a897-2c445fa0cd52)
