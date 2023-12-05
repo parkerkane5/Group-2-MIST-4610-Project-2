@@ -26,11 +26,17 @@ Below are the columns and their definitions, that details what information is fi
 
 
 Field Name:      Definition
+
 OPE ID:          An 8-digit code identifying the school at its main branch <br>
+
 School:          The name of the school associated with the OPE ID <br>
+
 State:           The state in which the main campus is located <br>
+
 Zip Code:        The zip code of the main campus <br>
+
 School Type:     Indicates the control or ownership of the school.   <br>
+
 Recipients:      The number of loan recipients for the loan type during the award year for the time period reported on the spreadsheet.  For Subsidized, Unsubsidized, and Graduate PLUS loans, this is a count of student borrowers.  For Parent PLUS loans, this is a count of the students on whose behalf the loan was taken.  Since students can have multiple loan types in the same award year, you cannot sum the recipient counts from the four categories to obtain an accurate count of total recipients for the loan program during that award year. <br>
 
 '# of Loans Originated':
@@ -41,6 +47,7 @@ The dollar amount of the loans initiated for the loan type during the award year
 
 "# of Loans Disbursed":
 The number of disbursements made for the loan type during the award year and quarter reported on the spreadsheet.   <br>
+
 $ of Loans Disbursed
 
 The dollar amount of disbursements made for the loan type during the award year for the time period reported on the spreadsheet.   <br>
@@ -50,7 +57,7 @@ Receipts, # of Loans Originated,	 $ of Loans Originated, # of Disbursements, and
 1) What is the average loan amount per recipient for Georgia and how does it compare to other Southeast states?
 
 
-2)How do subsidized and unsubsidized originated and disbursed loans vary between public and private schools?
+2) How do subsidized and unsubsidized originated and disbursed loans vary between public and private schools?
 
 ## Data Manipulation/Filters
 Question 1:
