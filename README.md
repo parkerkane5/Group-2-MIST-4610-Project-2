@@ -26,24 +26,24 @@ Below are the columns and their definitions, that details what information is fi
 
 
 Field Name:      Definition
-OPE ID:          An 8-digit code identifying the school at its main branch
-School:          The name of the school associated with the OPE ID
-State:           The state in which the main campus is located
-Zip Code:        The zip code of the main campus
-School Type:     Indicates the control or ownership of the school.  
-Recipients:      The number of loan recipients for the loan type during the award year for the time period reported on the spreadsheet.  For Subsidized, Unsubsidized, and Graduate PLUS loans, this is a count of student borrowers.  For Parent PLUS loans, this is a count of the students on whose behalf the loan was taken.  Since students can have multiple loan types in the same award year, you cannot sum the recipient counts from the four categories to obtain an accurate count of total recipients for the loan program during that award year.
+OPE ID:          An 8-digit code identifying the school at its main branch <br>
+School:          The name of the school associated with the OPE ID <br>
+State:           The state in which the main campus is located <br>
+Zip Code:        The zip code of the main campus <br>
+School Type:     Indicates the control or ownership of the school.   <br>
+Recipients:      The number of loan recipients for the loan type during the award year for the time period reported on the spreadsheet.  For Subsidized, Unsubsidized, and Graduate PLUS loans, this is a count of student borrowers.  For Parent PLUS loans, this is a count of the students on whose behalf the loan was taken.  Since students can have multiple loan types in the same award year, you cannot sum the recipient counts from the four categories to obtain an accurate count of total recipients for the loan program during that award year. <br>
 
 '# of Loans Originated':
-The number of loans initiated for the loan type during the award year for the time period reported on the spreadsheet.  
+The number of loans initiated for the loan type during the award year for the time period reported on the spreadsheet.  <br> 
 
 $ of Loans Originated:
-The dollar amount of the loans initiated for the loan type during the award year for the time period reported on the spreadsheet.  This is the expected total loan amount if the loan is fully disbursed.
+The dollar amount of the loans initiated for the loan type during the award year for the time period reported on the spreadsheet.  This is the expected total loan amount if the loan is fully disbursed.  <br>
 
 "# of Loans Disbursed":
-The number of disbursements made for the loan type during the award year and quarter reported on the spreadsheet.  
+The number of disbursements made for the loan type during the award year and quarter reported on the spreadsheet.   <br>
 $ of Loans Disbursed
 
-The dollar amount of disbursements made for the loan type during the award year for the time period reported on the spreadsheet.  
+The dollar amount of disbursements made for the loan type during the award year for the time period reported on the spreadsheet.   <br>
 
 Receipts, # of Loans Originated,	 $ of Loans Originated, # of Disbursements, and $ of Disbursements are repeated within the table for the Different types of loans such as FFEL SUBSIDIZED, FFEL UNSUBSIDIZED, FFEL PARENT PLUS, FFEL GRAD PLUS.	
 ## Questions
