@@ -8,12 +8,12 @@
 29704 Group 2
 
 ## Team Members
-Enzo Vasallo @enzovasallo
-Parker Kane @parkerkane5
-Kaylie Chin @kayliechin
-Clint Kitchens @clintkitchens
-Ore Pratt @nathanp2020
-Jazlyn Piedra @mjp44773
+Enzo Vasallo @enzovasallo ('<br>')
+Parker Kane @parkerkane5 ('<br>')
+Kaylie Chin @kayliechin ('<br>')
+Clint Kitchens @clintkitchens('<br>')
+Ore Pratt @nathanp2020('<br>')
+Jazlyn Piedra @mjp44773('<br>')
 
 ## Dataset
 The dataset used was obtained from the US Data gov website : https://catalog.data.gov/dataset
