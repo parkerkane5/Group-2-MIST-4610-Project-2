@@ -71,7 +71,15 @@ Average Unsubsidized Loan (per recipient)
 
 ## Analysis and Results
 
-![Screenshot (136)](https://github.com/parkerkane5/Group-2-MIST-4610-Project-2/assets/148779254/71e03ba0-d3e7-4a5a-9ee1-b1686580be55)
+Question 1
+
+[Screenshot (136)](https://github.com/parkerkane5/Group-2-MIST-4610-Project-2/assets/148779254/71e03ba0-d3e7-4a5a-9ee1-b1686580be55)
+
+In Georgia, the average loan amount per recipient is $2330 unsubsidized and $1864 subsidized. Among other southeastern states, it is very close to North Carolina at 5th place.
+Louisiana residents on average receive more money from federal loans than any other southeastern state at $3193 unsubsidized and $2329 subsidized. 
+This may indicate that both the standard of living and the standard of education in Georgia and states with lower average federal loan amounts is higher than Louisiana and other states that had higher average loan amounts.
+
+Question 2
 
 ![Screenshot (139)](https://github.com/parkerkane5/Group-2-MIST-4610-Project-2/assets/148779254/41a7af75-1fbe-4586-a897-2c445fa0cd52)
 
